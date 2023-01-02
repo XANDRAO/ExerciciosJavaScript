@@ -1,0 +1,14 @@
+As instruções corretas de declaração de arrays em JavaScript são a, b, d e e.
+
+A instrução a declara um array de strings e números, representando os dados de um aluno.
+
+A instrução b declara um array de números, representando as notas de um aluno.
+
+A instrução d declara um array de strings, representando o nome de três cidades.
+
+A instrução e declara um array vazio, que pode ser preenchido posteriormente com elementos.
+
+A instrução c está incorreta, pois os elementos do array devem estar entre aspas. O código correto seria:
+{
+flores = ["margarida", "rosa", "tulipa", "cravo"]
+{
