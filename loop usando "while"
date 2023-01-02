@@ -1,0 +1,6 @@
+let i = 0;  // inicializa a variável i com 0
+
+while (i < 10) {  // enquanto i for menor que 10
+  console.log(i);  // imprime o valor de i
+  i++;  // incrementa i
+}
