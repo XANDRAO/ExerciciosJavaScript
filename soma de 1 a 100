@@ -1,0 +1,5 @@
+const numeros = Array.from(Array(100).keys()).map(i => i + 1);  // cria um array com os números de 1 a 100
+
+const soma = numeros.reduce((acumulador, valorAtual) => acumulador + valorAtual, 0);  // soma os elementos do array
+
+console.log(soma);  // exibe a soma dos números de 1 a 100
