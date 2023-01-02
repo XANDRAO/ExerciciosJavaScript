@@ -1,0 +1,14 @@
+// função para ajustar o layout da página
+function ajustarLayout() {
+  if (window.innerWidth < 768) {  // se a largura da tela for menor que 768 pixels
+    // ajusta o layout para dispositivos móveis
+  } else {
+    // ajusta o layout para desktops
+  }
+}
+
+// chama a função ajustarLayout quando a página for carregada
+window.addEventListener("load", ajustarLayout);
+
+// chama a função ajustarLayout quando a janela for redimensionada
+window.addEventListener("resize", ajustarLayout);
