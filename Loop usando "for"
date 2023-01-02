@@ -1,0 +1,4 @@
+for (let i = 0; i < 10; i++) {  // inicializa a variável i com 0; continuar enquanto i for menor que 10; incrementa i a cada iteração
+  console.log(i);  // imprime o valor de i
+}
+
